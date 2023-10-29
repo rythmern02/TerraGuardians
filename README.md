@@ -39,6 +39,8 @@ The journey of building TerraGuardians was filled with unique challenges that de
 
 ## Accomplishments that we're proud of
 
+![WhatsApp Image 2023-10-29 at 15 22 29_fae69a67](https://github.com/rythmern02/TerraGuardians/assets/117756525/72bb81b0-0cb3-44b6-97fa-6ff5bb480225)
+
 Through dedication and innovation, we've achieved several accomplishments of which we're immensely proud:
 
 - **Effective Pollution Reporting**: Our drone technology and deep learning models have enabled efficient, automated pollution reporting. TerraGuardians users can view real-time data on pollution hotspots and track the impact of their actions.
