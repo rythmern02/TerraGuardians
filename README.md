@@ -3,6 +3,7 @@
 TerraGuardians was born from a deep-seated desire to combat the ever-growing environmental crisis, with a primary focus on land and water pollution. Our inspiration stems from the urgent need to protect our planet and foster a global community committed to environmental sustainability. As stewards of Earth, we felt compelled to create a platform that empowers individuals to take action and make a difference in their communities.
 
 ## What it does
+![WhatsApp Image 2023-10-29 at 15 20 49_1f843fef](https://github.com/rythmern02/TerraGuardians/assets/117756525/fbb1a7e0-55f7-41c3-9463-7335183af430)
 
 TerraGuardians is a powerful decentralized application (DApp) designed to address environmental challenges through a multifaceted approach. It incentivizes users to actively participate in cleaning their surroundings by rewarding them with tokens. These tokens can be exchanged for vouchers at multinational corporations and special merchandise, encouraging users to be environmentally responsible while enjoying tangible benefits.
 
